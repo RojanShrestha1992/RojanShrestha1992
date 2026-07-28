@@ -15,18 +15,9 @@
 
 ## About Me
 
-I'm a Computer Science student from Nepal who enjoys turning ideas into real, working products from the database schema to the last pixel of the UI. I'm currently pursuing my **BSc CSIT** at **Amrit Science Campus (ASCOL)**, and outside of coursework I spend most of my time building full stack projects, breaking them, and rebuilding them better.
+I'm a BSc CSIT student at Amrit Science Campus (ASCOL), Nepal, with a passion for building modern full stack web applications. I enjoy turning ideas into practical, user-friendly products while continuously learning through real-world projects.
 
-Right now my focus is shifting deeper into the backend, understanding how systems scale, how APIs are designed well, and how to write code that holds up under real-world use. Alongside that, I'm consistently practicing **Data Structures & Algorithms** to sharpen how I think through problems, not just how I solve them.
-
-```txt
-const rojan = {
-    role: "Full Stack Developer in the making",
-    focus: ["MongoDB", "Express", "React", "Node"],
-    interests: ["UI/UX", "Data Structures & Algorithms", "Web Performance"],
-    mindset: "always learning, always shipping"
-};
-```
+Currently, I'm deepening my expertise in the MERN Stack (MongoDB, Express.js, React, and Node.js) by building hands-on projects, while strengthening my knowledge of Data Structures & Algorithms and System Design. My goal is to become a skilled Full Stack Software Engineer who builds scalable and impactful applications.
 
 <br/>
 
