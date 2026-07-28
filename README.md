@@ -2,12 +2,10 @@
 
 <!-- Typing Animation -->
 <a href="https://github.com/RojanShrestha1992">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+I'm+Rojan+Shrestha;Building+Web+Apps;Turning+Ideas+Into+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+I'm+Rojan+Shrestha;Code.+Learn.+Repeat." alt="Typing SVG" />
 </a>
 
 <br/>
-
-
 
 </div>
 
@@ -15,7 +13,7 @@
 
 ## About Me
 
-I'm a BSc CSIT student at Amrit Science Campus (ASCOL), Nepal, with a passion for building modern full stack web applications. I enjoy turning ideas into practical, user-friendly products while continuously learning through real-world projects.
+I'I'm a BSc CSIT student at Amrit Science Campus (ASCOL), Nepal, with a passion for building modern full stack web applications. I enjoy turning ideas into practical, user-friendly products while continuously learning through real-world projects.
 
 Currently, I'm deepening my expertise in the MERN Stack (MongoDB, Express.js, React, and Node.js) by building hands-on projects, while strengthening my knowledge of Data Structures & Algorithms and System Design. My goal is to become a skilled Full Stack Software Engineer who builds scalable and impactful applications.
 
@@ -117,7 +115,7 @@ Full stack blogging platform with post creation, editing, and a clean reading ex
 
 <div align="center">
 
-### 📈 Activity Graph
+### Activity Graph
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RojanShrestha1992&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF" />
 
@@ -127,10 +125,9 @@ Full stack blogging platform with post creation, editing, and a clean reading ex
 
 <div align="center">
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <img src="https://raw.githubusercontent.com/RojanShrestha1992/RojanShrestha1992/output/github-contribution-grid-snake-dark.svg" />
-
 
 
 </div>
@@ -142,11 +139,9 @@ Full stack blogging platform with post creation, editing, and a clean reading ex
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=vercel&logoColor=white)](https://rojanshrestha123.com.np)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/rojanshrestha1992))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rojanshrestha1992@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rojanshrestha1992)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 
 </div>
-
----
 
