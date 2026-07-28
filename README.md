@@ -142,7 +142,7 @@ Full stack blogging platform with post creation, editing, and a clean reading ex
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-38bdf8?style=for-the-badge&logo=vercel&logoColor=white)](https://rojanshrestha123.com.np)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-linkedin-handle](https://www.linkedin.com/in/rojanshrestha1992))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/rojanshrestha1992))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rojanshrestha1992@gmail.com)
 
 
