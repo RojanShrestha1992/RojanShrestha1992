@@ -140,7 +140,7 @@ Full stack blogging platform with post creation, editing, and a clean reading ex
 
 <img src="https://raw.githubusercontent.com/RojanShrestha1992/RojanShrestha1992/output/github-contribution-grid-snake-dark.svg" />
 
-<sub>Powered by <a href="https://github.com/Platane/snk">Platane/snk</a> — add the accompanying GitHub Action to your profile repo to generate this automatically.</sub>
+
 
 </div>
 
