@@ -13,7 +13,7 @@
 
 ## About Me
 
-I'I'm a BSc CSIT student at Amrit Science Campus (ASCOL), Nepal, with a passion for building modern full stack web applications. I enjoy turning ideas into practical, user-friendly products while continuously learning through real-world projects.
+I'm a BSc. CSIT student at Amrit Science Campus (ASCOL), Nepal, with a passion for building modern full stack web applications. I enjoy turning ideas into practical, user-friendly products while continuously learning through real-world projects.
 
 Currently, I'm deepening my expertise in the MERN Stack (MongoDB, Express.js, React, and Node.js) by building hands-on projects, while strengthening my knowledge of Data Structures & Algorithms and System Design. My goal is to become a skilled Full Stack Software Engineer who builds scalable and impactful applications.
 
